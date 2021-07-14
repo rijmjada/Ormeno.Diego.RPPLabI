@@ -1,0 +1,127 @@
+# depslib dependency file v1.0
+1626270638 source:c:\users\administrador\desktop\nueva carpeta\ordenar\notebook\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"trabajo.h"
+	"notebook.h"
+	"servicio.h"
+	"marcas.h"
+	"tipo.h"
+	"fecha.h"
+	"hardcodeo.h"
+	"cliente.h"
+	"informes.h"
+
+1626270638 source:c:\users\administrador\desktop\nueva carpeta\ordenar\notebook\notebook.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"notebook.h"
+
+1626236105 c:\users\administrador\desktop\nueva carpeta\ordenar\notebook\notebook.h
+	"fecha.h"
+	"genericas.h"
+	"marcas.h"
+	"tipo.h"
+	"cliente.h"
+
+1626191458 source:c:\users\administrador\desktop\nueva carpeta\ordenar\notebook\marcas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"notebook.h"
+	"marcas.h"
+
+1626176236 c:\users\administrador\desktop\nueva carpeta\ordenar\notebook\marcas.h
+
+1626191508 source:c:\users\administrador\desktop\nueva carpeta\ordenar\notebook\servicio.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"notebook.h"
+	"servicio.h"
+
+1626189292 c:\users\administrador\desktop\nueva carpeta\ordenar\notebook\servicio.h
+
+1625691632 source:c:\users\administrador\desktop\nueva carpeta\ordenar\notebook\fecha.c
+
+1625691699 c:\users\administrador\desktop\nueva carpeta\ordenar\notebook\fecha.h
+
+1626269078 source:c:\users\administrador\desktop\nueva carpeta\ordenar\notebook\genericas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1626190527 source:c:\users\administrador\desktop\nueva carpeta\ordenar\notebook\tipo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"tipo.h"
+
+1626176460 c:\users\administrador\desktop\nueva carpeta\ordenar\notebook\tipo.h
+
+1626269078 c:\users\administrador\desktop\nueva carpeta\ordenar\notebook\genericas.h
+
+1626181837 source:c:\users\administrador\desktop\nueva carpeta\ordenar\notebook\extras.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"extras.h"
+	"genericas.h"
+
+1626181873 c:\users\administrador\desktop\nueva carpeta\ordenar\notebook\extras.h
+
+1626262148 source:c:\users\administrador\desktop\nueva carpeta\ordenar\notebook\trabajo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"trabajo.h"
+
+1626261988 c:\users\administrador\desktop\nueva carpeta\ordenar\notebook\trabajo.h
+	"notebook.h"
+	"servicio.h"
+	"marcas.h"
+	"fecha.h"
+
+1626186718 c:\users\administrador\desktop\nueva carpeta\ordenar\notebook\hardcodeo.h
+	"notebook.h"
+	"cliente.h"
+	"trabajo.h"
+
+1626265895 source:c:\users\administrador\desktop\nueva carpeta\ordenar\notebook\hardcodeo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"hardcodeo.h"
+	"cliente.h"
+
+1626269504 source:c:\users\administrador\desktop\nueva carpeta\ordenar\notebook\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"cliente.h"
+	"genericas.h"
+
+1626269504 c:\users\administrador\desktop\nueva carpeta\ordenar\notebook\cliente.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"genericas.h"
+
+1626270086 c:\users\administrador\desktop\nueva carpeta\ordenar\notebook\informes.h
+	"trabajo.h"
+	"notebook.h"
+	"servicio.h"
+	"marcas.h"
+	"tipo.h"
+	"fecha.h"
+	"hardcodeo.h"
+	"cliente.h"
+
+1626270476 source:c:\users\administrador\desktop\nueva carpeta\ordenar\notebook\informes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"informes.h"
+
